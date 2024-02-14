@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmeerBashaK
 - 👀 I’m interested in electronics 
-- 🌱 I’m currently learning embeded systems 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN
 - 📫 reach me on IG @ameer_basha_k 
 
 <!---

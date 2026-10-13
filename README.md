@@ -4,7 +4,7 @@
 
 [Portfolio & Instagram](https://www.instagram.com/framerifts/) · [Email](mailto:bashabb738@gmail.com)
 
-I’m a motion designer who enjoys coding for fun—and finding ways to automate my creative work.
+I’m a motion designer who enjoys coding for fun and finding ways to automate my creative work.
 
 I tend to build things when an idea or a need comes up. Trying to automate my motion design workflow led me to create MCP servers and reusable AI skills. Other times, curiosity leads me to a website or a new visual experiment.
 
